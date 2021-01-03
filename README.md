@@ -71,6 +71,8 @@ If you're not running Windows natively, you can use a virtual machine.
   - You need a Microsoft account to download it. Make sure to log in beforehand
     *then* click on the **Download** button. Otherwise, you won't see the
     download link.
+  - Visual Studio 2013 can still be run on the latest Windows 10 updates.
+    It can be safely installed alongside other Visual Studio versions.
 - Install [Python 2.7.18](https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi)
   to `C:\Python27`. Leave the options to their defaults.
 - Download [SCons 2.5.1](prdownloads.sourceforge.net/scons/scons-local/2.5.1/scons-local-2.5.1.zip)
