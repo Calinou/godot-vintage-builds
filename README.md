@@ -23,7 +23,7 @@ Use the [official Godot builds](https://godotengine.org/download/) for
 production. Thanks to 2D batching, Godot 3.2.2 and later should still be
 efficient on low-end machines.
 
-If you *really* need a version of Godot that is the frugal possible in terms of
+If you *really* need a version of Godot that is the most frugal possible in terms of
 RAM usage, use [Godot 2.1.6](https://downloads.tuxfamily.org/godotengine/2.1.6/).
 However, it has very few users remaining, which means people will not be able to
 assist you with any questions you have.
