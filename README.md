@@ -74,7 +74,7 @@ If you're not running Windows natively, you can use a virtual machine.
     It can be safely installed alongside other Visual Studio versions.
 - Install [Python 2.7.18](https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi)
   to `C:\Python27`. Leave the options to their defaults.
-- Download [SCons 2.5.1](prdownloads.sourceforge.net/scons/scons-local/2.5.1/scons-local-2.5.1.zip)
+- Download [SCons 2.5.1](https://prdownloads.sourceforge.net/scons/scons-local/2.5.1/scons-local-2.5.1.zip)
   and extract it to `C:\SCons`. Make sure `scons.py`'s path is `C:\SCons\scons.py`.
 - Download a ZIP archive of the Godot Git repository at the desired point of time.
   - For 1.0, this is <https://github.com/godotengine/godot/archive/1.0-stable.zip>.
