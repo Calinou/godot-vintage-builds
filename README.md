@@ -16,8 +16,7 @@ for more recent old versions (going back to Godot 1.1, released in May 2015).
 
 ## Disclaimer
 
-These builds are not meant to be used in a production environment
-:slightly_smiling_face:
+These builds are not meant to be used in a production environment 🙂
 
 Use the [official Godot builds](https://godotengine.org/download/) for
 production. Thanks to 2D batching, Godot 3.2.2 and later should still be
