@@ -78,6 +78,7 @@ If you're not running Windows natively, you can use a virtual machine.
   and extract it to `C:\SCons`. Make sure `scons.py`'s path is `C:\SCons\scons.py`.
 - Download a ZIP archive of the Godot Git repository at the desired point of time.
   - For 1.0, this is <https://github.com/godotengine/godot/archive/1.0-stable.zip>.
+  - For "Godot 0", this is <https://github.com/godotengine/godot/archive/b0870e487c6cc68bb0a2cef7174f3f5697667a2e.zip>.
 - Open the Start Menu, navigate to **Visual Studio 2013** and click on
   **Visual Studio Tools**. In the Explorer window that appears, double-click
   **VS2013 x64 Native Tools Command Prompt**.
